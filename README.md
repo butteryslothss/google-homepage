@@ -1,0 +1,1 @@
+This project is to recreate the Google homepage and use the skills i learned so far to do it.
