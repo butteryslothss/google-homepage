@@ -1,10 +1,23 @@
-ul {
+.topnav {
     list-style-type: none;
     margin: 0;
     padding: 0;    
     font-size: 14px;
     font-family: arial,sans-serif;
     color: #222;
+}
+
+.footer {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;    
+    font-size: 14px;
+    font-family: arial,sans-serif;
+    color: #222;
+}
+
+.backfoot {
+    background-color: #fff;
 }
 
 #logo {
@@ -43,4 +56,46 @@ ul {
     left: 81em;   
     top: 23px;
     font-size: 13px;
+}
+
+.advertising {
+    position: absolute;
+    left: 35px;   
+    top: 96.7%;
+}
+
+.business {
+    position: absolute;
+    left: 9.6em;   
+    top: 96.7%;
+}
+
+.howsearchworks {
+    position: absolute;
+    left: 15.8em;   
+    top: 96.7%;
+}
+
+.carbon {
+    position: absolute;
+    left: 44.4%;   
+    top: 96.7%;
+}
+
+.privacy {
+    position: absolute;
+    left: 82.2%;   
+    top: 96.7%;
+}
+
+.terms {
+    position: absolute;
+    left: 88%;   
+    top: 96.7%;
+}
+
+.settings {
+    position: absolute;
+    left: 93.4%;   
+    top: 96.7%;
 }
